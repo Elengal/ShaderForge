@@ -1,0 +1,9 @@
+d:\Rimworld MOD\ShaderForge\Assemblies\ShaderForge.dll
+d:\Rimworld MOD\ShaderForge\Assemblies\ShaderForge.pdb
+D:\Rimworld MOD\ShaderForge\Source\obj\Debug\ShaderForge.csproj.AssemblyReference.cache
+D:\Rimworld MOD\ShaderForge\Source\obj\Debug\ShaderForge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rimworld MOD\ShaderForge\Source\obj\Debug\ShaderForge.AssemblyInfoInputs.cache
+D:\Rimworld MOD\ShaderForge\Source\obj\Debug\ShaderForge.AssemblyInfo.cs
+D:\Rimworld MOD\ShaderForge\Source\obj\Debug\ShaderForge.csproj.CoreCompileInputs.cache
+D:\Rimworld MOD\ShaderForge\Source\obj\Debug\ShaderForge.dll
+D:\Rimworld MOD\ShaderForge\Source\obj\Debug\ShaderForge.pdb
